@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>789010617326-2jhorpd6jsntlhuo7uipsurf22aum22l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.789010617326-2jhorpd6jsntlhuo7uipsurf22aum22l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-Ivwkb2JhBalAlA6aA-s4M2qRgFl4MdA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>789010617326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ffirebase</string>
+	<key>PROJECT_ID</key>
+	<string>ecommere-app-fa1a9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecommere-app-fa1a9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:789010617326:ios:d07bbad454d9d0c00134ff</string>
+</dict>
+</plist>

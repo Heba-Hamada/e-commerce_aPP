@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789010617326",
+    "project_id": "ecommere-app-fa1a9",
+    "storage_bucket": "ecommere-app-fa1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789010617326:android:53ea94f752c38b510134ff",
+        "android_client_info": {
+          "package_name": "com.example.ffirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789010617326-qec8ag8san7hvtvpftc2ejsqslihsqbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBuhidU1nPjujlEQl5ShXMU3ECD_AgWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789010617326-qec8ag8san7hvtvpftc2ejsqslihsqbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
