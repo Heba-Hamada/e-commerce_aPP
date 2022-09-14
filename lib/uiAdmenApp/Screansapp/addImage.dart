@@ -3,8 +3,7 @@ import 'dart:io';
 
 import 'package:ffirebase/AppRoute.dart';
 import 'package:ffirebase/data_repositories/provider/firestore_provider.dart';
-import 'package:ffirebase/data_repositories/storage_helper.dart';
-import 'package:ffirebase/ui/view/auth/Widgets/Customdilog.dart';
+import 'package:ffirebase/data_repositories/helpers/storage_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';

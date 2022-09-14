@@ -4,9 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../modelsAdmenApp/Prodect.dart';
 
-
 class DetailsProductScreen extends StatelessWidget {
-  
   const DetailsProductScreen({Key? key, required this.product})
       : super(key: key);
   final Prodect product;

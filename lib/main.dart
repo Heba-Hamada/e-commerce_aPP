@@ -2,14 +2,11 @@ import 'dart:developer';
 import 'dart:io';
 
 import 'package:ffirebase/AppRoute.dart';
-import 'package:ffirebase/UserAppui2/HomePage.dart';
-import 'package:ffirebase/data_repositories/darkMode.dart';
+import 'package:ffirebase/data_repositories/helpers/darkMode.dart';
 import 'package:ffirebase/data_repositories/provider/auth_provider.dart';
 import 'package:ffirebase/data_repositories/provider/firestore_provider.dart';
-import 'package:ffirebase/data_repositories/storage_helper.dart';
+import 'package:ffirebase/data_repositories/helpers/storage_helper.dart';
 import 'package:ffirebase/firebase_options.dart';
-import 'package:ffirebase/ui/view/auth/Screans/SplachScrean.dart';
-import 'package:ffirebase/ui/view/auth/signinSrean.dart';
 import 'package:ffirebase/uiAdmenApp1/Screansapp/Slider/SliderScrean.dart';
 import 'package:ffirebase/uiAdmenApp1/userapp/Home.dart';
 

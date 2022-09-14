@@ -1,8 +1,7 @@
 import 'package:ffirebase/AppRoute.dart';
-import 'package:ffirebase/ui/view/auth/Screans/HomeSrean.dart';
-import 'package:ffirebase/ui/view/auth/Widgets/Customdilog.dart';
 import 'package:ffirebase/uiAdmenApp1/Screansapp/HomeScreans.dart';
 import 'package:ffirebase/uiAdmenApp1/Screansapp/ScreanAuth/welcomeL_s.dart';
+import 'package:ffirebase/uiAdmenApp1/modelsAdmenApp/CustomDilog.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';

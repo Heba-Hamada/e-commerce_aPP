@@ -1,9 +1,9 @@
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:ffirebase/data_repositories/firestore_helper.dart';
-import 'package:ffirebase/data_repositories/storage_helper.dart';
-import 'package:ffirebase/ui/view/auth/Widgets/Customdilog.dart';
+import 'package:ffirebase/data_repositories/helpers/firestore_helper.dart';
+import 'package:ffirebase/data_repositories/helpers/storage_helper.dart';
+import 'package:ffirebase/uiAdmenApp1/modelsAdmenApp/CustomDilog.dart';
 import 'package:ffirebase/uiAdmenApp1/modelsAdmenApp/Prodect.dart';
 import 'package:ffirebase/uiAdmenApp1/modelsAdmenApp/Slider.dart';
 import 'package:ffirebase/uiAdmenApp1/modelsAdmenApp/category.dart';

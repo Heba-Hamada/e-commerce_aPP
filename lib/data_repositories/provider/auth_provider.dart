@@ -1,7 +1,6 @@
 import 'package:ffirebase/AppRoute.dart';
-import 'package:ffirebase/data_repositories/AuthHelper.dart';
-import 'package:ffirebase/data_repositories/firestore_helper.dart';
-import 'package:ffirebase/ui/view/auth/Screans/HomeSrean.dart';
+import 'package:ffirebase/data_repositories/helpers/AuthHelper.dart';
+import 'package:ffirebase/data_repositories/helpers/firestore_helper.dart';
 import 'package:ffirebase/uiAdmenApp1/Screansapp/HomeScreans.dart';
 import 'package:ffirebase/uiAdmenApp1/modelsAdmenApp/User/appUserScrean.dart';
 
